@@ -1,5 +1,6 @@
 # PSEUDOCODIGO DEL EJERCICIO 1
-Escriba un algoritmo que pregunte por dos números y muestre como resultado la suma de estos.
+Escriba un algoritmo que pregunte por dos números y muestre como resultado la suma de estos. 
+
 1. Inicio
 2. Ingresar el primer número
 3. Ingresar el segundo número
